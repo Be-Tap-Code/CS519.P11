@@ -14,4 +14,4 @@
 
 | STT | Họ tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- |
-| 1 | Lý Nguyên Thùy Linh | 22521191 | 22521191@gm.uit.edu.vn | [Minh-Quan](https://github.com/Be-Tap-Code) |
+| 1 | Trần Minh Quân | 22521191 | 22521191@gm.uit.edu.vn | [Minh-Quan](https://github.com/Be-Tap-Code) |
